@@ -1,0 +1,51 @@
+Order_ID,Order_Date,Category,Region,Product_Name,Sales,Profit,Quantity
+ORD0001,2025-05-21,Technology,East,Printer,3269.25,179.82,2
+ORD0002,2025-02-14,Office Supplies,South,Laptop,3448.16,787.68,1
+ORD0003,2025-11-05,Technology,East,Keyboard,649.74,62.72,9
+ORD0004,2025-05-23,Technology,East,Keyboard,2213.7,309.57,7
+ORD0005,2025-06-22,Technology,West,Desk,1833.2,148.67,2
+ORD0006,2025-05-16,Technology,South,Monitor,1923.1,228.45,2
+ORD0007,2025-10-10,Furniture,Central,Monitor,4870.96,612.31,4
+ORD0008,2025-04-27,Furniture,West,Printer,3581.94,211.93,2
+ORD0009,2025-07-06,Technology,Central,Chair,2024.61,284.83,4
+ORD0010,2025-12-16,Office Supplies,West,Monitor,3416.84,650.44,3
+ORD0011,2025-08-25,Furniture,Central,Keyboard,2763.87,273.52,9
+ORD0012,2025-01-29,Technology,West,Chair,1254.15,144.05,7
+ORD0013,2025-10-18,Office Supplies,Central,Printer,1485.16,136.93,8
+ORD0014,2025-08-23,Technology,Central,Printer,2099.03,488.88,4
+ORD0015,2025-10-27,Furniture,South,Chair,3775.95,595.83,4
+ORD0016,2025-09-10,Technology,West,Laptop,4987.16,387.33,3
+ORD0017,2025-08-05,Office Supplies,West,Desk,3211.74,669.38,7
+ORD0018,2025-05-09,Office Supplies,West,Keyboard,3060.26,439.48,2
+ORD0019,2025-05-17,Office Supplies,Central,Laptop,3472.21,546.51,5
+ORD0020,2025-05-15,Office Supplies,East,Monitor,2286.87,321.86,2
+ORD0021,2025-11-24,Office Supplies,East,Printer,4378.49,480.27,6
+ORD0022,2025-09-29,Technology,Central,Desk,3860.05,609.41,1
+ORD0023,2025-06-07,Technology,West,Printer,736.97,90.35,10
+ORD0024,2025-09-06,Technology,East,Printer,4745.36,318.56,8
+ORD0025,2025-09-28,Office Supplies,South,Printer,4744.87,393.94,9
+ORD0026,2025-06-09,Furniture,Central,Desk,3825.27,719.05,9
+ORD0027,2025-02-02,Furniture,West,Monitor,2367.13,235.72,9
+ORD0028,2025-02-06,Office Supplies,West,Printer,1304.55,122.68,2
+ORD0029,2025-02-06,Office Supplies,East,Chair,4546.02,1008.88,8
+ORD0030,2025-10-20,Office Supplies,South,Printer,1228.34,93.92,8
+ORD0031,2025-02-19,Office Supplies,South,Chair,4075.99,359.02,7
+ORD0032,2025-01-28,Office Supplies,West,Laptop,2173.29,484.14,7
+ORD0033,2025-02-25,Technology,East,Printer,3695.43,776.48,9
+ORD0034,2025-05-23,Furniture,East,Laptop,2353.35,316.23,8
+ORD0035,2025-02-20,Technology,West,Laptop,4078.51,902.14,4
+ORD0036,2025-04-20,Furniture,West,Printer,998.29,146.88,7
+ORD0037,2025-08-21,Furniture,South,Keyboard,210.35,26.94,9
+ORD0038,2025-04-08,Furniture,East,Laptop,3376.98,497.54,10
+ORD0039,2025-06-10,Technology,West,Monitor,3731.54,232.07,8
+ORD0040,2025-03-22,Technology,West,Printer,2613.68,576.43,2
+ORD0041,2025-05-01,Furniture,West,Monitor,3056.17,565.52,4
+ORD0042,2025-02-11,Furniture,Central,Chair,2978.81,172.62,4
+ORD0043,2025-05-16,Furniture,East,Keyboard,3414.68,385.3,5
+ORD0044,2025-02-07,Technology,South,Monitor,2394.68,564.67,10
+ORD0045,2025-04-20,Office Supplies,Central,Printer,4981.26,322.05,6
+ORD0046,2025-07-09,Furniture,East,Desk,4428.15,1000.12,9
+ORD0047,2025-12-01,Office Supplies,West,Keyboard,3576.99,616.44,9
+ORD0048,2025-03-10,Furniture,West,Laptop,1637.02,299.05,9
+ORD0049,2025-04-18,Office Supplies,Central,Printer,946.15,100.62,5
+ORD0050,2025-01-27,Technology,South,Chair,2625.96,263.18,1
